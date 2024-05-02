@@ -1,0 +1,3 @@
+callId,phoneNumber,startTimeEpoch,endTimeEpoch,callDirection,userId
+1,123-456-7890,1659605580,drop table students;,1659605600,inbound
+2,123-456-7890,1659605580,drop table students;,1659605600,inbound
